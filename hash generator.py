@@ -1,4 +1,7 @@
 import hashlib
+import os
+
+os.system("clear")
 
 print("""
 this HASH GENERATOR was created by Berat
